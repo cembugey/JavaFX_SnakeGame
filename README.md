@@ -1,7 +1,4 @@
-# JavaFX_SnakeGame
-A snake game I made using JavaFX 
-
-Snake Game
+# A Snake Game using JavaFX
 
 This is the classic snake game created using JavaFX. This game also includes new features while maintaining the old classic fun. 
 Here are some of the features of the game:
